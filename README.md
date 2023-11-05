@@ -1,0 +1,1 @@
+Just learning rust by watchin freecode camp Learn Rust Programming - Complete Course
